@@ -8,15 +8,9 @@ I left software architecture and development behind to become a Scrum Master, Bu
 
 Today, Agentic Engineering feels like one of those rare moments when technology fundamentally changes how people work together.
 
-This repository documents my attempt to understand that change.
+This repository documents my attempt to understand that change. Not from the outside.
 
-Not from the outside.
-
-By building.
-
-By experimenting.
-
-By learning in public.
+By building. By experimenting. By learning in public.
 
 # The Laboratory
 
@@ -43,11 +37,11 @@ What happens when autonomous agents become part of how humans create value toget
 
 I am interested in questions such as:
 
-- How does delegation change when the recipient is not a human?
-- What happens to knowledge work?
-- How does leadership evolve?
-- How do adaptive organizations become agent-capable organizations?
-- What remains uniquely human?
+-- How does delegation change when the recipient is not a human?
+-- What happens to knowledge work?
+-- How does leadership evolve?
+-- How do adaptive organizations become agent-capable organizations?
+-- What remains uniquely human?
 
 ## Working Hypothesis
 
@@ -70,6 +64,14 @@ And because the future of work will be shaped by practitioners who are willing t
 -- Explore AI-assisted software development
 -- Document lessons learned
 -- Develop a practical perspective on Agentic Organizations
+
+## Research Journal
+
+This repository is not intended to document answers.
+
+It is intended to document questions, experiments and observations.
+
+The goal is to understand how humans, teams and organizations evolve when autonomous agents become part of value creation.
 
 ## Status
 
